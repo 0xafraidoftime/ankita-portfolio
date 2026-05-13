@@ -1,6 +1,4 @@
-# ankitapal.com
 
-Personal portfolio site for [Ankita Pal](https://ankitapal.com) — Machine Learning Engineer.
 
 > "Until death, all defeat is psychological."
 
